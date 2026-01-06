@@ -97,7 +97,7 @@ export default function Index() {
             alt="Technicien fibre optique sur chantier" 
             className="w-full h-full object-cover opacity-20"
           />
-          <div className="absolute inset-0 bg-gradient-to-r from-primary-dark/95 via-primary/80 to-primary/60" />
+          <div className="absolute inset-0 bg-gradient-to-r from-[hsl(231,81%,12%)]/95 via-primary/80 to-primary/60" />
         </div>
 
         {/* Electric Lines Decoration */}
